@@ -1,0 +1,11 @@
+{
+  "name": "Душевное чтение Корана",
+  "short_name": "Коран",
+  "description": "Полный 30-й джуз и избранные душевные отрывки.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3e8",
+  "theme_color": "#0d3b31"
+}
